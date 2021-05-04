@@ -1,5 +1,22 @@
+* {
+    font-size: 100%;
+    font-family: 'Itim', cursive;
+}
+
+    
+    
+body {
+    background-color: black;
+}
+
 h1 {
     text-align: center;
-    margin: 1;
+    margin: 2;
     background-color: aqua;
+    font-size: 500%;
+}
+
+.card {
+    background-color: burlywood;
+    color: cornflowerblue;
 }
